@@ -2372,3 +2372,6 @@ My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ## Hello Kottans!
 My name is Eugene
 I'm happy to be here!
+
+## HI there, I'm [Anton](https://github.com/callmetomorrow/kottans-frontend).
+Nice to meet you all :-)
